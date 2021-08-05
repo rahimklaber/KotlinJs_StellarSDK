@@ -1,0 +1,26 @@
+{
+  "version": "9",
+  "items": {
+    "2af3a7d5d3a191e783b02e728aae3a71": {
+      "src": "C:\\Users\\rahim\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-stdlib-js\\1.5.21\\9b22e0c2e0dcf2ba9f27e45a48944d05b0384bc3\\kotlin-stdlib-js-1.5.21.jar",
+      "target": "kotlin\\1.5.21"
+    },
+    "fbd459a29ce2389973599bffedb8bb20": {
+      "src": "C:\\Users\\rahim\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-stdlib-common\\1.5.21\\cc8bf3586fd2ebcf234058b9440bb406e62dfacb\\kotlin-stdlib-common-1.5.21.jar"
+    },
+    "82d9df85c2a290f8d3b52a8b54fe5182": {
+      "src": "C:\\Users\\rahim\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlinx\\kotlinx-coroutines-core-js\\1.5.1\\598985335f5abc3b4a3b013c59b8df9ca35e342c\\kotlinx-coroutines-core-jsir-1.5.1.klib"
+    },
+    "e1e03b094e97fc12f05898b8ec97e015": {
+      "src": "C:\\Users\\rahim\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlinx\\atomicfu-js\\0.16.2\\1b918aa420cf4592c5201e35a8a6c5ae28ef981a\\atomicfu-jsir-0.16.2.klib"
+    },
+    "337ff817e087aded273dfc9ba494baf4": {
+      "src": "C:\\Users\\rahim\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-test-js-runner\\1.5.21\\20ef83e15f8c2cde090f3bfd8c1eba72947f7ab8\\kotlin-test-js-runner-1.5.21.jar",
+      "target": "kotlin-test-js-runner\\1.5.21"
+    },
+    "86f9bdd1a041703da52b8693255b9d51": {
+      "src": "C:\\Users\\rahim\\.gradle\\caches\\modules-2\\files-2.1\\org.jetbrains.kotlin\\kotlin-test-js\\1.5.21\\db9c8e994715fb1edd5bef91db179b60347cbfc9\\kotlin-test-js-1.5.21.jar",
+      "target": "kotlin-test\\1.5.21"
+    }
+  }
+}
