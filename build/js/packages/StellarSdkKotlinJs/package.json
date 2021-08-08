@@ -3,6 +3,7 @@
   "version": "1.0.0-SNAPSHOT",
   "main": "kotlin/StellarSdkKotlinJs.js",
   "devDependencies": {
+    "dukat": "0.5.8-rc.4",
     "source-map-support": "0.5.19"
   },
   "dependencies": {

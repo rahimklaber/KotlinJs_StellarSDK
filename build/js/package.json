@@ -3,7 +3,8 @@
   "version": "1.0-SNAPSHOT",
   "private": true,
   "workspaces": [
-    "packages\\StellarSdkKotlinJs"
+    "packages\\StellarSdkKotlinJs",
+    "packages\\StellarSdkKotlinJs-test"
   ],
   "resolutions": {},
   "devDependencies": {},
